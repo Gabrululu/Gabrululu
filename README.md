@@ -56,10 +56,12 @@ I'm an engineering student passionate about building tech solutions that create 
 <img src="https://skillicons.dev/icons?i=arch,linux"/>
 </div>
 
+<h3 align="center">🐍 Watch the snake eat my 2026 contributions</h3>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrululu/Gabrululu/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrululu/Gabrululu/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Gabrululu/Gabrululu/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="Snake eating my 2026 contributions" src="https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5" width="100%" />
 </picture>
 
 ## 📱 Connect with me
