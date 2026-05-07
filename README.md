@@ -58,24 +58,5 @@ I'm an engineering student passionate about building tech solutions that create 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </span>
 
-<h3 align="center">🐍 Watch the snake eat my 2026 contributions</h3>
-
-<p align="center">
-  <img alt="Snake eating my 2026 contributions" src="https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5" />
-</p>
-
-## 📱 Connect with me
-
-<a href="https://www.tiktok.com/@gabrululupe">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
-</a>
-<a href="https://www.youtube.com/@gabrululu">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
-</a>
-<a href="https://www.twitch.tv/gabrululupe">
-  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-</a>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D62828,100:7B2FBE&height=150&section=footer&text=MINTED%20IN%20PERU&fontSize=42&fontColor=ffffff&fontAlignY=62&desc=for%20builders%20to%20builders&descSize=16&descAlignY=80&descAlign=50&animation=fadeIn" width="100%" />
