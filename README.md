@@ -56,26 +56,11 @@ I'm an engineering student passionate about building tech solutions that create 
 <img src="https://skillicons.dev/icons?i=arch,linux"/>
 </div>
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Gabrululu/AlephRob">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrululu&repo=AlephRob&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Gabrululu/score-de-barrio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrululu&repo=score-de-barrio&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Gabrululu/Ocean-Sense-Network">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrululu&repo=Ocean-Sense-Network&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Gabrululu/Propulsor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrululu&repo=Propulsor&theme=dark&hide_border=true" />
-  </a>
-</p>
-
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrululu/Gabrululu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrululu/Gabrululu/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Gabrululu/Gabrululu/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 ## 📱 Connect with me
 
@@ -91,7 +76,4 @@ I'm an engineering student passionate about building tech solutions that create 
 
 <br><br>
 
-<p align="center">
-  <b>🇵🇪 MINTED IN PERU</b><br>
-  <sub>for builders to builders</sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D62828,100:7B2FBE&height=150&section=footer&text=MINTED%20IN%20PERU&fontSize=42&fontColor=ffffff&fontAlignY=62&desc=for%20builders%20to%20builders&descSize=16&descAlignY=80&descAlign=50&animation=fadeIn" width="100%" />
