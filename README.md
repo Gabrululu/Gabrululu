@@ -1,17 +1,21 @@
-<h1 align="center"><b>Hi, I'm Jennifer Gabriela </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jennifer+Gabriela+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
 <img align="right" width=300px alt="Builder" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Soy estudiante de ingeniería y una apasionada por construir soluciones tecnológicas que impacten en el mundo real. Mi desarrollo se enfoca tanto en **Frontend** como en **Backend**, con especial interés en **Web3, Inteligencia Artificial, Agentes Autónomos, Robótica y Ciberseguridad**. 
+🇵🇪 **Lima, Peru** — building for the world.
 
-- 🏆 **Ganadora de 8 hackathons** nacionales e internacionales.
-- 🏗️ **Community Builder:** Colaboro activamente con diversas organizaciones y comunidades tecnológicas.
-- 🎤 **Organización de eventos:** Parte del equipo detrás de meetups, hackathons y workshops tech.
-- 📱 **Content Creator:** Comparto mi camino y conocimientos técnicos a través de mis redes sociales.
-- 🌱 Actualmente profundizando en **Rust y sistemas descentralizados**.
-- ✔️ Siempre dispuesta a colaborar en proyectos innovadores y de código abierto.
+I'm an engineering student passionate about building tech solutions that create real-world impact. My work spans both **Frontend** and **Backend**, with a strong focus on **Web3, Artificial Intelligence, Autonomous Agents, Robotics, and Cybersecurity**.
+
+- 🏆 **8 hackathon wins** — bounties and top placements at national and international competitions.
+- 🏗️ **Community Builder:** Actively collaborating with tech organizations and communities.
+- 🎤 **Event Organizer:** Part of the team behind meetups, hackathons, and tech workshops.
+- 📱 **Content Creator:** Sharing my journey and technical knowledge across social media.
+- 🌱 Currently deepening my skills as a **Full Stack** developer.
+- ✔️ Always open to collaborating on innovative and open source projects.
 
 ## 🛠️ My Skills Include
 
@@ -23,6 +27,7 @@ Soy estudiante de ingeniería y una apasionada por construir soluciones tecnoló
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -37,11 +42,13 @@ Soy estudiante de ingeniería y una apasionada por construir soluciones tecnoló
   <img src="https://img.shields.io/badge/Rhinoceros-871212?style=for-the-badge&logo=rhinoceros&logoColor=white">
 </span>
 
-<h4> Other Tools </h4>
+<h4> Tools & Deployment </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 </span>
 
 <div align="Center">
@@ -50,12 +57,25 @@ Soy estudiante de ingeniería y una apasionada por construir soluciones tecnoló
 </div>
 
 ## 🚀 Featured Projects
-*(Estos son mis proyectos ganadores de hackathons y desarrollos destacados)*
 
-- **AlephRob:** Protocolo descentralizado para flotas robóticas autónomas.
-- **Score de Barrio:** Infraestructura de datos on-chain para comercios locales en LATAM.
-- **Ocean-Sense Network:** Proyecto DePIN para monitoreo oceánico descentralizado.
-- **Propulsor:** Plataforma de finanzas programables para gestión de ahorros familiares.
+<p align="center">
+  <a href="https://github.com/Gabrululu/AlephRob">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrululu&repo=AlephRob&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Gabrululu/score-de-barrio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrululu&repo=score-de-barrio&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Gabrululu/Ocean-Sense-Network">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrululu&repo=Ocean-Sense-Network&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Gabrululu/Propulsor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrululu&repo=Propulsor&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
 
 ## 📱 Connect with me
 
@@ -69,8 +89,9 @@ Soy estudiante de ingeniería y una apasionada por construir soluciones tecnoló
   <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
 </a>
 
-<br>
+<br><br>
 
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
+<p align="center">
+  <b>🇵🇪 MINTED IN PERU</b><br>
+  <sub>for builders to builders</sub>
+</p>
